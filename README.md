@@ -1,3 +1,7 @@
+#Code is under development
+
+Will update proper docs by alpha release.
+
 Code Playground 
 ================
 
